@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hreddy11
 - 👀 I’m interested in building Web Applications/APIs
-- 🌱 I’m currently learning Kafka Streaming
+- 🌱 I’m currently learning ReactJS and Kafka Streaming
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me /in/haprare/(linkedin), @hreddy11 (Instagram)
 
