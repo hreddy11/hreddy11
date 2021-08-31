@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hreddy11
+- 👋 Hi, I’m Hariprakash Reddy
 - 👀 I’m interested in building Web Applications/APIs
 - 🌱 I’m currently learning ReactJS and Kafka Streaming
 - 💞️ I’m looking to collaborate on open projects
