@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hariprakash Reddy
 - 👀 I’m interested in building Web Applications/APIs
-- 🌱 I’m currently learning NextJS, ReactJS and Kafka Streaming
+- 🌱 I’m currently learning SAS, NextJS, ReactJS and Kafka Streaming
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me /in/haprare/(linkedin)
 
