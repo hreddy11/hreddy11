@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hariprakash Reddy
 - 👀 I’m interested in building Web Applications/APIs
+- I primarily use python and Javascript
 - 🌱 I’m currently learning NextJS
 - 📫 How to reach me /in/haprare/(linkedin)
 
