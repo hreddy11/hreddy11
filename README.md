@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hariprakash Reddy
 - 👀 I’m interested in building Web Applications/APIs
-- 🌱 I’m currently learning POSTGIS, NextJS
+- 🌱 I’m currently learning POSTGIS, exploring different async frameworks
 - 📫 How to reach me /in/haprare/(linkedin)
 
 <!---
