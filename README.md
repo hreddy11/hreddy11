@@ -17,7 +17,7 @@ I am AWS Certified Solutions Professional Architect and I design and operate lar
 
 ### ⚡ A few things I've shipped
 
-- Modernized and migrated a legacy platform processing **280M+ records/week** to a cloud-native GCP architecture, eliminating chronic reliability failures.
+- Modernized and migrated a legacy platform processing **280M+ records/week** to and reduce processing time to 4 hours a cloud-native GCP architecture, eliminating chronic reliability failures.
 - Architected demand-forecasting and recommendation pipelines (Airflow, PySpark/Dataproc, XGBoost) feeding real operational and pricing decisions.
 - Built and deployed real-time anomaly-detection pipelines supporting an enterprise ESG initiative, end-to-end from data ingestion to a stakeholder-facing frontend.
 
