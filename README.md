@@ -12,7 +12,7 @@ I am AWS Certified Solutions Professional Architect and I design and operate lar
 
 ### 🔭 What I do
 
-- **Data Engineering (primary focus):** Design scalable APIs, data pipelines (batch & streaming ETL/ELT), warehouse integrations, and data transformations, and schema design, large-scale ingestion, and platform migrations to cloud-native architecture (GCP / AWS).
+- **Data Engineering (primary focus):** Design scalable APIs (Python, FastAPI, Flask, Django), data pipelines (batch & streaming ETL/ELT), warehouse integrations, and data transformations, and schema design, large-scale ingestion, and platform migrations to cloud-native architecture (GCP / AWS).
 - **MLOps (highlighted experience):** production ML pipelines — feature engineering (feature store), training, deployment, and monitoring, MLflow - for model registry and tracking — for systems that real business decisions depend on.
 
 ### ⚡ A few things I've shipped
