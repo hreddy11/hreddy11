@@ -1,5 +1,5 @@
 👋 Hi, I’m Hariprakash Reddy
-### Senior Data Engineer &nbsp;|&nbsp; MLOps Engineer
+### Lead ML Platform Engineer &nbsp;|&nbsp; Senior Software Engineer  
 I am AWS Certified Solutions Professional Architect and I design and operate large-scale, cloud-native data platforms — from ingestion and orchestration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haprare)
@@ -12,12 +12,22 @@ I am AWS Certified Solutions Professional Architect and I design and operate lar
 
 ### 🔭 What I do
 
-- **Data Engineering (primary focus):** Design scalable APIs (Python, FastAPI, Flask, Django), data pipelines (batch & streaming ETL/ELT), warehouse integrations, and data transformations, and schema design, large-scale ingestion, and platform migrations to cloud-native architecture (GCP / AWS).
-- **MLOps (highlighted experience):** production ML pipelines — feature engineering (feature store), training, deployment, and monitoring, MLflow - for model registry and tracking — for systems that real business decisions depend on.
+- Lead Data & Platform Engineer with 13+ years of experience leading cross-functional teams, designing enterprise data
+architectures, and deploying cloud-native distributed data pipelines (batch & streaming) for AI/ML platforms.
+- Expertise in different languages and frameworks such as, Python(Flask, FastAPI, Django), SQL, Typescript(NodeJS).
+- Deep hands-on knowledge on dockerized REST APIs, Data Modelling, Data Mesh principles, ETL/ELT pipelines -
+batch and streaming pipelines - GCP(Airflow, Dataproc etc) and AWS (SQS, Lambda, EventBridge, S3 etc)
+- Track record of driving engineering delivery execution, capacity planning, mentoring teams, establishing CI/CD, and
+scaling highly reliable data platforms to lower costs and boost performance through robust code reviews, CI/CD,
+automated testing, monitoring, alerting, and observability.
+- AWS Certified Solutions Architect Professional skilled in API design, microservices modernization, and data architecture
+optimization.
+- Adept user of AI/LLM tools (e.g., Claude, GitHub Copilot) with data safety to rapidly build, evaluate, and scale the
+applications.
 
 ### ⚡ A few things I've shipped
 
-- Modernized and migrated a legacy platform processing **280M+ records/week** to and reduce processing time to 4 hours a cloud-native GCP architecture, eliminating chronic reliability failures.
+- Led modernization and migrated a legacy platform processing **280M+ records** to and reduce processing time to 4 hours a cloud-native GCP architecture, eliminating chronic reliability failures.
 - Architected demand-forecasting and recommendation pipelines (Airflow, PySpark/Dataproc, XGBoost) feeding real operational and pricing decisions.
 - Built and deployed real-time anomaly-detection pipelines supporting an enterprise ESG initiative, end-to-end from data ingestion to a stakeholder-facing frontend.
 
