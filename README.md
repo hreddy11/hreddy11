@@ -1,5 +1,5 @@
 👋 Hi, I’m Hariprakash Reddy
-### Lead ML Platform Engineer &nbsp;|&nbsp; Senior Software Engineer  
+### Lead ML Platform Engineer   
 I am AWS Certified Solutions Professional Architect and I design and operate large-scale, cloud-native data platforms — from ingestion and orchestration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haprare)
