@@ -27,7 +27,7 @@ applications.
 
 ### ⚡ A few things I've shipped
 
-- Led modernization and migrated a legacy platform processing **280M+ records** to and reduce processing time to 4 hours a cloud-native GCP architecture, eliminating chronic reliability failures.
+- Led modernization and migrated a legacy platform processing **280M+ records** a cloud-native GCP architecture, eliminating chronic reliability failures.
 - Architected demand-forecasting and recommendation pipelines (Airflow, PySpark/Dataproc, XGBoost) feeding real operational and pricing decisions.
 - Built and deployed real-time anomaly-detection pipelines supporting an enterprise ESG initiative, end-to-end from data ingestion to a stakeholder-facing frontend.
 
