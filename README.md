@@ -1,5 +1,5 @@
 👋 Hi, I’m Hariprakash Reddy
-### Lead ML Platform Engineer   
+### Senior Software / Python Engineer   
 I am AWS Certified Solutions Professional Architect and I design and operate large-scale, cloud-native data platforms — from ingestion and orchestration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haprare)
@@ -12,7 +12,7 @@ I am AWS Certified Solutions Professional Architect and I design and operate lar
 
 ### 🔭 What I do
 
-- Lead Data & Platform Engineer with 13+ years of experience leading cross-functional teams, designing enterprise data
+- Senior Software / Python Engineer with 13+ years of experience leading cross-functional teams, designing enterprise data
 architectures, and deploying cloud-native distributed data pipelines (batch & streaming) for AI/ML platforms.
 - Expertise in different languages and frameworks such as, Python(Flask, FastAPI, Django), SQL, Typescript(NodeJS).
 - Deep hands-on knowledge on dockerized REST APIs, Data Modelling, Data Mesh principles, ETL/ELT pipelines -
